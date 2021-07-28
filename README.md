@@ -23,14 +23,14 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahul1237" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehul-pandey-1750051b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-mahajan-979a8a194" height="30" width="40" /></a>
+<a href="https://dev.to/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mehulp1612" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehul-pandey-1750051b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mehulp1612" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/rahul_mahajannnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_mahajannnn" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/d_m4693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anonymous0201" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rahulmahajan403" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahulmahajan" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/d_m4693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="d_m4693" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mehulp1612" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mehulp1612" height="30" width="40" /></a>
 <a href="https://leetcode.com/mehulp1612/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/mehulp1612/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="rahulmahajann" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mehulp1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="mehulp1612" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/#4244" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#4244" height="30" width="40" /></a> -->
 </p>
  
@@ -39,11 +39,11 @@
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul1237&show_icons=true&locale=en&layout=compact" alt="rahul1237" /></p> -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmahajann&show_icons=true&locale=en&theme=react-dark" alt="rahulmahajann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulp1612&show_icons=true&locale=en&theme=react-dark" alt="mehulp1612" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&theme=react-dark" alt="rahulmahajann" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulp1612&theme=react-dark" alt="mehulp1612" /></p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmahajann&theme=react-dark" alt="rahulmahajann" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulp1612&theme=react-dark" alt="mehulp1612" /></p>
  
  
  
@@ -54,4 +54,4 @@
  
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&" alt="rahulmahajann" /></p> -->
  
-[![rahul mahajan github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulmahajann&theme=react-dark)](https://github.com/rahulmahajann/github-readme-activity-graph)
+[![Mehul Pandey github activity graph](https://activity-graph.herokuapp.com/graph?username=mehulp1612&theme=react-dark)](https://github.com/mehulp1612/github-readme-activity-graph)
