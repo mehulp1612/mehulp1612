@@ -5,15 +5,15 @@
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul1237&theme=tokyonight" alt="rahul1237" /></a> </p> -->
  
-- 🔭 Intern at **GeeksForGeeks**
+<!-- - 🔭 Intern at **GeeksForGeeks** -->
  
-- 🌱 I’m currently learning **React.**
+<!-- - 🌱 I’m currently learning **React.** -->
  
 - 👨‍💻 All of my projects are available at [https://github.com/mehulp1612](https://github.com/mehulp1612)
  
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/mehulp1612/articles](https://auth.geeksforgeeks.org/user/mehulp1612/articles)
  
-- 💬 Ask me about **Technical Content Writing,DSA**
+- 💬 Ask me about **Technical Content Writing,DSA, MERN Stack**
  
 - 📫 How to reach me **mehulp1612@gmail.com**
  
@@ -54,4 +54,4 @@
  
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmahajann&" alt="rahulmahajann" /></p> -->
  
-[![Mehul Pandey github activity graph](https://activity-graph.herokuapp.com/graph?username=mehulp1612&theme=react-dark)](https://github.com/mehulp1612/github-readme-activity-graph)
+<!-- [![Mehul Pandey github activity graph](https://activity-graph.herokuapp.com/graph?username=mehulp1612&theme=react-dark)](https://github.com/mehulp1612/github-readme-activity-graph) -->
